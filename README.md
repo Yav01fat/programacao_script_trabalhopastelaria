@@ -2,7 +2,7 @@ Projeto Pastelaria do seu Zé
 Como Rodar o Projeto
 Clone o repositório:
 
-git clone https://github.com/Yav01fat/programacao_script/tree/main
+git clone https:https://github.com/Yav01fat/programacao_script_trabalhopastelaria
 cd[Trabalho]
 Instale as dependências:
 
